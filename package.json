@@ -1,0 +1,9 @@
+{
+  "name": "store",
+  "version": "1.0.0",
+  "description": "digital store",
+  "main": "index.js",
+  "repository": "https://github.com/kiryushkinvitalik94/store.git",
+  "author": "Vitalii Kiriushkin <kiryushkinvitalik94@gmail.com>",
+  "license": "MIT"
+}
