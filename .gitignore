@@ -1,0 +1,66 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Debug output
+*.out
+*.map
+
+# Production
+/dist/
+/build/
+/out/
+
+# Dependency directories
+jspm_packages/
+bower_components/
+.node_repl_history
+
+# Coverage directories
+coverage/
+.nyc_output/
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# Environment variables
+.env
+.env.*.local
+.env.local
+
+# Operating System files
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+
+# Ignore lock files (optional)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Miscellaneous
+*.iml
+*.sublime-workspace
+*.sublime-project
